@@ -1,0 +1,39 @@
+[
+    {
+        "key": "test",
+        "msg": [
+            "this is a test message",
+            "this is a test reply"
+        ]
+    },
+    {
+        "key": "test2",
+        "msg": [
+            "to link two reply"
+        ]
+    },
+    {
+        "key": "\u811a\u8e0f\u8f66",
+        "msg": [
+            "\u6ca1\u6709\u811a"
+        ]
+    },
+    {
+        "key": "\u5403\u996d",
+        "msg": [
+            "\u7761\u89c9"
+        ]
+    },
+    {
+        "key": "jkk\u634f",
+        "msg": [
+            "\u56de\u590d"
+        ]
+    },
+    {
+        "key": "\u5c0f\u738b",
+        "msg": [
+            "\u4e0d\u8981\u71ac\u591c\u4e86\uff01"
+        ]
+    }
+]
